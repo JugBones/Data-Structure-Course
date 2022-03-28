@@ -7,8 +7,8 @@
 - This repository was created for the purpose of storing some files regarding our project in creating an infix to postfix converter with C++
 
 ### Our code files description here :
-👉🏻
-👉🏻 
+👉🏻 infixtopostfixrecursion copy.cpp = code for infix to postfix recursion
+👉🏻 Week6Forum.cpp = code for infix to postfix iteration
 
 
 ### Languages and Tools:
